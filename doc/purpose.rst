@@ -4,7 +4,7 @@ Purpose
 =======
 
 The purpose of this excercise is to test readthedocs webhooks and show how easy it is to make an efficient documentation.
-
+Useful yeah!
 
 Zipf's law
 ----------
